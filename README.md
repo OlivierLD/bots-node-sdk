@@ -32,7 +32,7 @@ The SDK also ships [CLI](#cli) tools with some quick start project generators.
 
 ## CLI
 
-This package includes several command line capabilties designed to facilitate
+This package includes several command line capabilities designed to facilitate
 custom development with the SDK itself. See complete documentation
 [here](https://github.com/oracle/bots-node-sdk/blob/master/bin/CLI.md)
 
